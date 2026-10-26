@@ -6,8 +6,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shamikaballard.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shamikaballard.com)
-[![Digital vCard](https://img.shields.io/badge/Digital_Card-Save_Contact_vCard-2563EB?style=for-the-badge&logo=vcard&logoColor=white)](https://shamikaballard.com/connect)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shamikayballard.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shamikayballard.com)
+[![Digital vCard](https://img.shields.io/badge/Digital_Card-Save_Contact_vCard-2563EB?style=for-the-badge&logo=vcard&logoColor=white)](https://shamikayballard.com/connect)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shamika_Ballard-0F172A?style=for-the-badge&logo=linkedin&logoColor=2563EB)](https://www.linkedin.com/in/shamikaballard)
 
 </div>
@@ -32,7 +32,7 @@
 
 ### 📂 Featured Architecture Repositories
 * [`report-design-agent`](https://github.com/shamikayballard/report-design-agent) — System instructions and prompt test suites for AI reporting agents enforcing 3-30-300 executive KPI design rules.
-* *More production case studies, data flows, and DAX modeling patterns available at [shamikaballard.com](https://shamikaballard.com).*
+* *More production case studies, data flows, and DAX modeling patterns available at [shamikayballard.com](https://shamikayballard.com).*
 
 <div align="center">
   <small>© 2026 Shamika Ballard • Built with Cupertino Slate & Cobalt Standards</small>
