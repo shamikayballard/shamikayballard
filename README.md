@@ -14,7 +14,7 @@
 
 ---
 
-### 📊 Verified Executive Impact
+### Verified Executive Impact
 * **Revenue Turnaround:** Rebuilt CRM-BI segmentation across **32,000 accounts**, reversing a **-10% pre-launch decline** into a **+22% YoY YTD growth ($2.0M)** in year one (+18% real volume growth net of pricing).
 * **AI Agent Enablement:** Deployed Copilot Studio and Claude report-design agents enforcing the **3-30-300 layout framework**, cutting delivery time by **40%** for a 3-person team.
 * **Enterprise Tenant Adoption:** Led the migration from MicroStrategy to a governed 10-workspace Power BI tenant, achieving **80% daily adoption** within 90 days.
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Core Technology Stack & Architecture
+### Core Technology Stack & Architecture
 * **Data Platforms & Modeling:** SQL Server, T-SQL, Stored Procedures, SCD Type 2, Advanced DAX, Calculation Groups, Dynamic RLS, Tabular Semantic Models.
 * **Reporting & Governance:** Power BI Service, Deployment Pipelines, Paginated Reports, Fabric Premium Capacity.
 * **CRM & Low-Code Automation:** Creatio CRM Architecture, Power Apps, Power Automate, SharePoint.
@@ -30,7 +30,7 @@
 
 ---
 
-### 📂 Featured Architecture Repositories
+### Featured Architecture Repositories
 * [`report-design-agent`](https://github.com/shamikayballard/report-design-agent) — System instructions and prompt test suites for AI reporting agents enforcing 3-30-300 executive KPI design rules.
 * *More production case studies, data flows, and DAX modeling patterns available at [shamikayballard.com](https://shamikayballard.com).*
 
